@@ -1,0 +1,24 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: left;
+    font-size: 20px;
+    margin-top: 50px;
+    font-family: 'Merriweather', serif;
+    transform: translateX(35%)
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+
+span {
+    font-size: 15px;    
+}
+
+
+
+
