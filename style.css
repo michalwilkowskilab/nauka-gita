@@ -1,0 +1,17 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: left;
+    font-size: 20px;
+    margin-top: 75px;
+    transform: translateX(35%)
+}
+
+span {
+    font-size: 15px;
+}
+
+
+
